@@ -8,5 +8,12 @@ A web scraping script built with Python that scrapes titles and prices from Book
 - Requests
 
 ## How to Run
-1. Install dependencies: `pip install requests beautifulsoup4`
-2. Run script: `python tracker.py`
+1. Clone the repository:
+   git clone https://github.com/TVOJ_USERNAME/simple-book-price-tracker.git
+   cd simple-book-price-tracker
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the script:
+   python tracker.py
