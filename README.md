@@ -9,7 +9,7 @@ A web scraping script built with Python that scrapes titles and prices from Book
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/TVOJ_USERNAME/simple-book-price-tracker.git
+   git clone https://github.com/NikolaKit/simple-book-price-tracker.git
    cd simple-book-price-tracker
 
 2. Install dependencies:
